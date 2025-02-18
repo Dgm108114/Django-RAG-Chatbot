@@ -1,0 +1,11 @@
+langchain
+langchain_community
+langchain_openai
+langchain_huggingface
+langchain_chroma
+langchain-ollama
+sentence-transformers
+django
+openai
+pyodbc
+
